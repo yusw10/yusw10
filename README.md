@@ -1,16 +1,17 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient)
 
-<!--
-**yusw10/yusw10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yusw10&show_icons=true&theme=radical%22/%3E
 
-Here are some ideas to get you started:
+<div align="left">
+  <div align="center">
+Hello, I am Borysarang 🙌🏻 <br>
+  <div align="center">
+Thank you for visiting my github. <br>
+   <br>
+- Yagom Academy iOS Career Stater Camp 6th
+ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
