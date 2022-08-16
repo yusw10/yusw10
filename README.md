@@ -27,9 +27,9 @@ Thank you for visiting my github. <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   
 </div>
-    
-    
-- Yagom Academy iOS Career Stater Camp 6th
+   
+- SSAFY 3rd(2020.03 ~ 2020.09)
+- Yagom Academy iOS Career Starter Camp 6th
  <br>
 
 </div>
