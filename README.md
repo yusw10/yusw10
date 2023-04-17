@@ -29,7 +29,10 @@ Thank you for visiting my github. <br>
 </div>
    
 - SSAFY 3rd(2020.03 ~ 2020.09)
-- Yagom Academy iOS Career Starter Camp 6th
+- Yagom Academy iOS Career Starter Camp 6th (2022.04 ~ 2022.10)
+- 교통민원 24 iOS 담당 (2023.03 ~ now)
+  - Objective-C
+  - Hybrid app
  <br>
 
 </div>
